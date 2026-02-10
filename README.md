@@ -11,7 +11,7 @@ It is recommended to use [Feather](https://github.com/khcrysalis/Feather) instea
 <a href="https://stikstore.app/altdirect/?url=https://ybgmoli.github.io/repo/source.json"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" target="_blank" width="200">
 </a>
 <h1 align="left">
-<a href="therealfoxster.github.io/altsource-viewer/view/all-apps/?source=https://ybgmoli.github.io/repo/source.json"><img src="https://github.com/ybgmoli/repo/blob/main/media/view-on-altsource.png?raw=true" target="_blank" width="200">
+<a href="https://therealfoxster.github.io/altsource-viewer/view/?source=https://ybgmoli.github.io/repo/source.json"><img src="https://github.com/ybgmoli/repo/blob/main/media/view-on-altsource.png?raw=true" target="_blank" width="200">
 </a>
   
 ---
