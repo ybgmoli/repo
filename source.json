@@ -51,7 +51,7 @@
       "downloadURL": "https://files.catbox.moe/f2fo12.ipa",
       "localizedDescription": "hold down ask a question to open tgmenu",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6e/64/8b6e6440-197d-07a2-84d4-d3f589a2e700/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "tintColor": "146070000",
+      "tintColor": "14607000",
       "size": 201697618,
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/f6/e6/2bf6e6f6-cf6c-7732-a16c-553da0f0ceb2/19196428-c297-4771-b0c9-a977a6271a85_1.png/460x998bb.webp",
@@ -168,7 +168,7 @@
       "versionDate": "2025-12-02",
       "downloadURL": "https://files.catbox.moe/r5bqvz.ipa",
       "localizedDescription": "Mini Metro - connect stations with lines and launch trains. Manage the available routes efficiently, updating them as new stops appear. Determine how to optimally allocate your limited resources. How long can your city keep running?. Credits go to PDAFile.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/10/0a/b9100a63-1e7f-2aa5-5de2-153907e5b768/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/10/0a/b9100a63-1e7f-2aa5-5de2-153907e5b768/AppIcon-1x_U007epad-0-8-0-85-220-0.png/100x100bb.jpg",
       "tintColor": "ff7c9f",
       "size": 230000000,
       "screenshotURLs": [
@@ -176,9 +176,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/54/8a/fb548ac4-fe6e-9138-ebd2-1748c55fb8e1/en-US-iOS-6.5-in-2.png/480x222bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/76/9c/87/769c8707-72a2-a78c-5edb-8e9f6de388ea/en-US-iOS-6.5-in-4.png/480x222bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/3e/8c/f73e8c31-9965-264b-4f3a-d043e3a6ef61/en-US-iOS-6.5-in-5.png/480x222bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/a4/59/a3a459e9-dfc4-7efc-1048-56fa12c2c0a2/en-US-iOS-6.5-in-6.png/480x222bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/a4/59/a3a459e9-dfc4-7efc-1048-56fa12c2c0a2/en-US-iOS-6.5-in-6.png/480x222bb.webp"
       ]
     }
   ]
 }
-
