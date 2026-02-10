@@ -1,9 +1,9 @@
 {
-  "name": "ybg Moli's repo",
+  "name": "Chud",
   "identifier": "ybgmoli.github.io/repo",
   "subtitle": "Testing",
   "description": "Welcome!",
-  "iconURL": "https://github.com/ybgmoli/repo/blob/master/repopic.png?raw=true",
+  "iconURL": "https://github.com/ybgmoli/repo/blob/main/repopic.png?raw=true",
   "website": "https://ybgmoli.github.io/repo/",
   "sourceURL": "https://ybgmoli.github.io/repo/altstore.json",
   "tintColor": "FC9530",
@@ -66,7 +66,7 @@
       "developerName": "CloudySn0w",
       "subtitle": "READ DESCRIPTION!",
       "version": "313.0 + 1.0.2",
-      "versionDate": "2025-12-05",
+      "versionDate": "2026-01-27",
       "downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v313.0/discord.ipa",
       "localizedDescription": "Credits go to https://github.com/CloudySn0w/BTLoader. I recommend using the older version which will be more stable and have better compatibility with plugins. Check their GitHub repo for more information on this matter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/eb/c4/bfebc410-01f5-6645-10ca-a69f2568bed3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
@@ -79,7 +79,7 @@
       "developerName": "CloudySn0w",
       "subtitle": "Modded with Kettu",
       "version": "305.1 + 1.0.2",
-      "versionDate": "2025-12-05",
+      "versionDate": "2026-01-02",
       "downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v305.1/discord.ipa",
       "localizedDescription": "Credits go to https://github.com/CloudySn0w/BTLoader. Recommended version, better compatibility with more plugins",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/eb/c4/bfebc410-01f5-6645-10ca-a69f2568bed3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
@@ -98,6 +98,67 @@
       "iconURL": "https://www.stremio.com/website/stremio-logo-small.png",
       "tintColor": "ff7c9f",
       "size": 0
+    },
+    {
+      "name": "Google News Ad-Free",
+      "bundleIdentifier": "com.google.GoogleDigitalEditions",
+      "developerName": "Google and Moe",
+      "subtitle": "Vanilla Google News App Ad-Free",
+      "version": "5.112",
+      "versionDate": "2025-12-13",
+      "downloadURL": "https://files.catbox.moe/q8milb.ipa",
+      "localizedDescription": "Patched by Moe",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/86/d7/4886d754-d005-b5bc-52d6-fc9b28aded8a/logo_google_news_color-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220-0.png/100x100bb.jpg",
+      "tintColor": "ff7c9f",
+      "size": 80000000
+    },
+    {
+      "name": "muTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "reisxd",
+      "subtitle": "Ad-Free YouTube for Apple TV",
+      "version": "5.0",
+      "versionDate": "2025-12-07",
+      "downloadURL": "https://files.catbox.moe/lvwi2a.ipa",
+      "localizedDescription": "Vanilla YouTube App mod for Apple TV that integrates TizenTube userscript. Credits go to Moe for building the .IPA file and TizenTube. I don't think you can install this on your Apple TV by using this source, you'll have to use something like Sideloadly, Atvloadly or an Apple Dev account to sideloaad this IPA onto your device. Check the GitHub repo for the download link or Google it.",
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MUTube_Adfree_Youtube_for_Apple_TV_1765146640.webp?v=1770717752.1770669040",
+      "tintColor": "ff7c9f",
+      "size": 20000000
+    },
+    {
+      "name": "Infuse Pro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Firecore, Moe and dayanch96",
+      "subtitle": "Infuse Pro unlocked",
+      "version": "8.3.0",
+      "versionDate": "2025-11-05",
+      "downloadURL": "https://files.catbox.moe/a4v55f.ipa",
+      "localizedDescription": "Modded Infuse App with Pro subscription unlocked along other goodies thanks to the Infuse Plus tweak. Check it out on https://github.com/dayanch96/InfusePlus",
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Infuse_xlarge.webp?v=1770717752.1770669040",
+      "tintColor": "ff7c9f",
+      "size": 80000000
+      "screenshotURLs": [
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot1.png",
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot3.png",
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot2.png",
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot4.png"
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot5.png"
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot6.png"
+      ]
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "reisxd",
+      "subtitle": "Modded with Ultimate",
+      "version": "9.06",
+      "versionDate": "2026-02-09",
+      "downloadURL": "https://files.catbox.moe/7x1tjl.ipa",
+      "localizedDescription": "YouTube Music with Ultimate tweak injected. Credits go to Moe for patching the IPA",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ea/d8/9dead82a-9a8a-8528-8c95-cd9c2e91b705/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
+      "tintColor": "ff7c9f",
+      "size": 180000000
     }
   ]
 }
+
