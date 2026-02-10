@@ -158,6 +158,27 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ea/d8/9dead82a-9a8a-8528-8c95-cd9c2e91b705/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
       "tintColor": "ff7c9f",
       "size": 180000000
+    },
+    {
+      "name": "Mini Metro+",
+      "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
+      "developerName": "Firecore, Moe and dayanch96",
+      "subtitle": "Infuse Pro unlocked",
+      "version": "1.8.0",
+      "versionDate": "2025-12-02",
+      "downloadURL": "https://files.catbox.moe/r5bqvz.ipa",
+      "localizedDescription": "Mini Metro - connect stations with lines and launch trains. Manage the available routes efficiently, updating them as new stops appear. Determine how to optimally allocate your limited resources. How long can your city keep running?. Credits go to PDAFile.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/10/0a/b9100a63-1e7f-2aa5-5de2-153907e5b768/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "tintColor": "ff7c9f",
+      "size": 230000000,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ec/0e/1a/ec0e1a1e-f98f-4095-a727-b3794a86b9a3/en-US-iOS-6.5-in-1.png/480x222bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/54/8a/fb548ac4-fe6e-9138-ebd2-1748c55fb8e1/en-US-iOS-6.5-in-2.png/480x222bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/76/9c/87/769c8707-72a2-a78c-5edb-8e9f6de388ea/en-US-iOS-6.5-in-4.png/480x222bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/3e/8c/f73e8c31-9965-264b-4f3a-d043e3a6ef61/en-US-iOS-6.5-in-5.png/480x222bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/a4/59/a3a459e9-dfc4-7efc-1048-56fa12c2c0a2/en-US-iOS-6.5-in-6.png/480x222bb.webp",
+      ]
     }
   ]
 }
+
