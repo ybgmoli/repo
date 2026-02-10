@@ -1,0 +1,103 @@
+{
+  "name": "ybg Moli's repo",
+  "identifier": "ybgmoli.github.io/repo",
+  "subtitle": "Testing",
+  "description": "Welcome!",
+  "iconURL": "https://github.com/ybgmoli/repo/blob/master/repopic.png?raw=true",
+  "website": "https://ybgmoli.github.io/repo/",
+  "sourceURL": "https://ybgmoli.github.io/repo/altstore.json",
+  "tintColor": "FC9530",
+  "featuredApps": [
+    "com.spotify.client",
+    "com.burbn.instagram"
+  ],
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Moe and Eevee",
+      "subtitle": "Eevee Patch",
+      "version": "9.1.20",
+      "versionDate": "2026-02-09",
+      "downloadURL": "https://files.catbox.moe/si2761.ipa",
+      "localizedDescription": "Eevee patched",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/b7/26/d3b72679-269d-9d82-4203-4efcadf3e28f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "tintColor": "fa2942",
+      "size": 200000000,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/58/0d/28580d62-47f7-d6ce-aa73-69e3dbe21642/IOS_-_6.5_-_S01_-_EN_-_US.png/460x996bb.webp"
+      ]
+    },
+    {
+      "name": "Fix Twitter Login",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Moe",
+      "subtitle": "READ DESCRIPTION!",
+      "version": "10.16",
+      "versionDate": "2026-02-07",
+      "downloadURL": "https://files.catbox.moe/lctv0d.ipa",
+      "localizedDescription": "Install this IPA, tap the circle, click enable login, then login like normal, after your logged in you can install a newer ipa over this ipa",
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Login_Fix_IPA_For_X_Read_Instructions_1765350182.webp?v=1770668013.1770669040",
+      "tintColor": "ff7c9f",
+      "size": 201697618
+    },
+    {
+      "name": "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "Moe",
+      "subtitle": "Premium + TGExtra",
+      "version": "12.3.3",
+      "versionDate": "2026-02-10",
+      "downloadURL": "https://files.catbox.moe/f2fo12.ipa",
+      "localizedDescription": "hold down ask a question to open tgmenu",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6e/64/8b6e6440-197d-07a2-84d4-d3f589a2e700/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "tintColor": "146070000",
+      "size": 201697618,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/f6/e6/2bf6e6f6-cf6c-7732-a16c-553da0f0ceb2/19196428-c297-4771-b0c9-a977a6271a85_1.png/460x998bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/b3/92/d3b392dc-5a28-1b8e-f132-a010b6289de1/8b573941-0a41-40f9-b72c-27d03bafa8c4_2.jpg/460x998bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/10/81/d11081df-c27f-7e3f-641e-f20ee4fba2f0/742216e5-1312-4da0-ada5-50f709410a96_5.png/460x998bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/62/88/a16288b8-a49d-f5b6-e39d-eb8033ba2d64/199ca24d-ce35-4b33-b8cd-fca59124556f_4.jpg/460x998bb.webp"
+      ]
+    },
+    {
+      "name": "Kettu Discord [UNSTABLE]",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "CloudySn0w",
+      "subtitle": "READ DESCRIPTION!",
+      "version": "313.0 + 1.0.2",
+      "versionDate": "2025-12-05",
+      "downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v313.0/discord.ipa",
+      "localizedDescription": "Credits go to https://github.com/CloudySn0w/BTLoader. I recommend using the older version which will be more stable and have better compatibility with plugins. Check their GitHub repo for more information on this matter",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/eb/c4/bfebc410-01f5-6645-10ca-a69f2568bed3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "tintColor": "ff7c9f",
+      "size": 224000000
+    },
+    {
+      "name": "Kettu Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "CloudySn0w",
+      "subtitle": "Modded with Kettu",
+      "version": "305.1 + 1.0.2",
+      "versionDate": "2025-12-05",
+      "downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v305.1/discord.ipa",
+      "localizedDescription": "Credits go to https://github.com/CloudySn0w/BTLoader. Recommended version, better compatibility with more plugins",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/eb/c4/bfebc410-01f5-6645-10ca-a69f2568bed3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "tintColor": "ff7c9f",
+      "size": 224000000
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.strmeio.ios",
+      "developerName": "Stremio",
+      "subtitle": "Stremio Full",
+      "version": "1.3.6",
+      "versionDate": "2026-02-02",
+      "downloadURL": "https://files.catbox.moe/pmhlvr.ipa",
+      "localizedDescription": "This is the (now deleted) official IPA provided on their website. This is the FULL version of the app, you'll be able to stream torrents with this one.",
+      "iconURL": "https://www.stremio.com/website/stremio-logo-small.png",
+      "tintColor": "ff7c9f",
+      "size": 0
+    }
+  ]
+}
