@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">Moe (https://moe.mohkg1017.pro/) - Unfortunately you this isn't a proper AltStore source, you'll have to periodically check his website to download and update your apps. Either way, it's by far one of the biggest and most active sources out there. Most of the mods in this source come from this site.<br><br>Blackburn (https://github.com/Balackburn/Apollo#Standard-Source) - Mod for the popular reddit client Apollo injected with ImprovedCustomAPI<br><br>Drifty Repos (https://view.drifty.win/) - Hosts three repos for different Instagram and YouTube Mods, amongst other stuff.<br><br>CyPwn (https://ipa.cypwn.xyz/) - Multipurpose repo<br><br>iKarwan (website (https://repo.ikghd.me/) repo (https://stikstore.app/altdirect/?url=https://repo.ikghd.me/repo.json)) - Updated mods for YouTube and Instagram<br><br>Dan's Workshop (https://dvntm0.github.io/) - Very outdated, last addition was in November 2025.<br><br>FTRepo (https://ftrepo.xyz/apps.json) - Multipurpose repo</p>
+<p align="left">
+[Moe](https://moe.mohkg1017.pro/) - Unfortunately you this isn't a proper AltStore source, you'll have to periodically check his website to download and update your apps. Either way, it's by far one of the biggest and most active sources out there. Most of the mods in this source come from this site.<br>
+<br>[Blackburn](https://github.com/Balackburn/Apollo#Standard-Source) - Mod for the popular reddit client Apollo injected with ImprovedCustomAPI<br><br>[Drifty Repos](https://view.drifty.win/) - Hosts three repos for different Instagram and YouTube Mods, amongst other stuff.<br><br>[CyPwn](https://ipa.cypwn.xyz/) - Multipurpose repo<br><br>[iKarwan](https://repo.ikghd.me/) | [Add Repo](https://stikstore.app/altdirect/?url=https://repo.ikghd.me/repo.json) - Updated mods for YouTube and Instagram<br><br>[Dan's Workshop](https://dvntm0.github.io/) - Very outdated, last addition was in November 2025.<br><br>[FTRepo](https://stikstore.app/altdirect/?url=https://ftrepo.xyz/apps.json) - Multipurpose repo</p>
 
 ###
 
@@ -30,6 +32,10 @@
 
 ###
 
-<p align="left">None of the apps hosted in this repo are made, developed or hosted by me.<br>This repo serves as an easy way to obtain updated and safe mods.</p>
+<p align="left">If anyone wants to to make a better "View on AltSource" logo, hmu.</p>
+
+###
+
+<p align="left">You can contact me via Email chudrepo@cock.li.</p>
 
 ###
