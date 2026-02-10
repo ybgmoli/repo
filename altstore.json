@@ -1,61 +1,45 @@
 {
   "apps": [
     {
-      "beta": false,
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "Spotify",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
-      "iconURL": "https://files.catbox.moe/si2761.ipa",
-      "localizedDescription": "",
-      "name": "Spotify",
-      "screenshotURLs": [
-        ""
-      ],
-      "subtitle": "Eevee Patch",
-      "tintColor": "",
-      "version": "",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "app.swiftgram.ios",
-      "developerName": "Akentech Ltd",
-      "downloadURL": "https://files.catbox.moe/f2fo12.ipa",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6e/64/8b6e6440-197d-07a2-84d4-d3f589a2e700/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "localizedDescription": "",
-      "name": "Swiftgram",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/f6/e6/2bf6e6f6-cf6c-7732-a16c-553da0f0ceb2/19196428-c297-4771-b0c9-a977a6271a85_1.png/460x998bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/b3/92/d3b392dc-5a28-1b8e-f132-a010b6289de1/8b573941-0a41-40f9-b72c-27d03bafa8c4_2.jpg/460x998bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/10/81/d11081df-c27f-7e3f-641e-f20ee4fba2f0/742216e5-1312-4da0-ada5-50f709410a96_5.png/460x998bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/62/88/a16288b8-a49d-f5b6-e39d-eb8033ba2d64/199ca24d-ce35-4b33-b8cd-fca59124556f_4.jpg/460x998bb.webp"
-      ],
-      "subtitle": "Premium + TGExtra",
-      "tintColor": "",
-      "version": "",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://files.catbox.moe/lctv0d.ipa",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Login_Fix_IPA_For_X_Read_Instructions_1765350182.webp?v=1770668013.1770669040",
-      "localizedDescription": "Install this IPA, tap the circle, click enable login, then login like normal, after your logged in you can install a newer ipa over this ipa",
-      "name": "Fix Twitter Login",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "An alternative App Store for iOS.",
-      "tintColor": "018084",
-      "version": "10.16",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "keychain-access-groups",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.usernotifications.filtering",
+          "aps-environment",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
+          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
+          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
+          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
+          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
+          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
+          "NSLocationUsageDescription": "This app requires location access to provide local content.",
+          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
+          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
+          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
+          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
+          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
+        }
+      },
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
@@ -75,14 +59,29 @@
       ],
       "size": 250,
       "subtitle": "Modded with NeoFreeBird",
-      "tintColor": "",
+      "tintColor": "C13584",
       "version": "11.63",
-      "versionDate": "",
-      "versionDescription": ""
+      "versionDate": "2026-01-30",
+      "versionDescription": "Latest version"
     }
   ],
-  "identifier": "ybgmoli.github.io",
-  "name": "ybg Moli",
-  "news": [],
-  "userInfo": {}
+  "description": "This repo is for Instagram Theta only. It is compatible with SideStore, AltStore and most other sideloading apps.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
+  "iconURL": "https://i.postimg.cc/Kcdr62dc/dp-rounded.png",
+  "identifier": "com.dw.theta",
+  "name": "driftywinds' Theta AltStore Repo",
+  "news": [
+    {
+      "appID": "com.burbn.instagram",
+      "caption": "Theta updated to 414.0.0",
+      "date": "2026-01-30",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "C13584",
+      "title": "Theta Latest - 30th January 2026"
+    }
+  ],
+  "sourceURL": "https://driftywinds.github.io/AltStore/theta.json",
+  "subtitle": "builds by Moe - https://moe.mohkg1017.pro/",
+  "userInfo": {},
+  "website": "https://github.com/driftywinds"
 }
