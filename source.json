@@ -136,13 +136,13 @@
       "localizedDescription": "Modded Infuse App with Pro subscription unlocked along other goodies thanks to the Infuse Plus tweak. Check it out on https://github.com/dayanch96/InfusePlus",
       "iconURL": "https://moe.mohkg1017.pro/static/icons/Infuse_xlarge.webp?v=1770717752.1770669040",
       "tintColor": "ff7c9f",
-      "size": 80000000
+      "size": 80000000,
       "screenshotURLs": [
         "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot1.png",
         "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot3.png",
         "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot2.png",
-        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot4.png"
-        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot5.png"
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot4.png",
+        "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot5.png",
         "https://github.com/dayanch96/InfusePlus/raw/main/Resources/screenshot6.png"
       ]
     },
@@ -161,4 +161,3 @@
     }
   ]
 }
-
